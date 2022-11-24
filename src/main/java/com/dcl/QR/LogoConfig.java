@@ -15,7 +15,7 @@ import javax.imageio.ImageIO;
  *
  */
 public class LogoConfig {
-
+    // 啦啦啦啦啦
     /**
      * 设置 logo
      * @param matrixImage 源二维码图片
